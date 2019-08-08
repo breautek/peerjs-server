@@ -1,6 +1,6 @@
 {
-  "name": "peer",
-  "version": "0.2.9",
+  "name": "@breautek/peer",
+  "version": "0.0.1",
   "description": "PeerJS server component",
   "main": "lib/index.js",
   "bin": {
